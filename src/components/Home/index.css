@@ -1,0 +1,25 @@
+
+.home-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img{
+    height: 516px;
+}
+
+.details-container{
+    margin-left: 50px;
+    width: 200px;
+}
+
+.button-container{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width:480px){
+
+}

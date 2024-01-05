@@ -1,0 +1,22 @@
+
+.form-main-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.form-btn{
+    align-self: flex-end;
+}
+
+.form-img{
+    width: 100%;
+}
