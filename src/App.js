@@ -7,8 +7,8 @@ import { Component } from 'react'
 
 class App extends Component {
   state={projectList:[{projectname:"NxtTrendz",projectLink:"https://res.cloudinary.com/dqjixulez/image/upload/v1704439776/pexels-elly-fairytale-3823207_1_h7g258.png",description:"This is an online shopping application which is similar to amazon."},
-  {projectname:"WikiPedia",projectLink:"https://res.cloudinary.com/dqjixulez/image/upload/v1704439782/Rectangle_7_iyaoqr.png",description:"This is an online shopping application which is similar to amazon."},
-  {projectname:"instaShare",projectLink:"https://res.cloudinary.com/dqjixulez/image/upload/v1704439794/Rectangle_7_1_zijztt.png",description:"This is an online shopping application which is similar to amazon."}
+  {projectname:"WikiPedia",projectLink:"https://res.cloudinary.com/dqjixulez/image/upload/v1704439782/Rectangle_7_iyaoqr.png",description:"This is similar to wikipidea search application allows users to search resources over internet."},
+  {projectname:"instaShare",projectLink:"https://res.cloudinary.com/dqjixulez/image/upload/v1704439794/Rectangle_7_1_zijztt.png",description:"This is a instagram clone where users can post,like and connect with their friends."}
 ]}
 
    updateProjectList=(list)=>{
